@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🛠️ Tech Stack I Play With
 
-<!--
-**viksit-sharma/viksit-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Languages & Frameworks
+`MongoDB` `Express` `React` `Node.js` `Tailwind` `C++` `Java` 
 
-Here are some ideas to get you started:
+### 🔧 Tools & Platforms
+`Git` `Figma` `Vercel`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Learning
+`AI Integration` `Cloud`
+
+---
+
+## 📬 Connect With Me
+
+* [`LinkedIn`](https://www.linkedin.com/in/viksit-sharma-913815330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+* [`Twitter (X)`](https://x.com/viksit_24?t=kILTaAdyvsmUnZGPnMeUqg&s=09)
+* [`Instagram`](https://www.instagram.com/viksit_sharma_05/)
+* [`Email`](mailto:viksitsharmapvt@gmail.com)
