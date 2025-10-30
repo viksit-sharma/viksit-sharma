@@ -1,4 +1,4 @@
-## 🛠️ Tech Stack I Play With
+## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
 `MongoDB` `Express` `React` `Node.js` `Tailwind` `C++` `Java` 
