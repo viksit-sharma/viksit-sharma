@@ -18,14 +18,13 @@
 * [`Instagram`](https://www.instagram.com/viksit_sharma_05/)
 * [`Email`](mailto:viksitsharmapvt@gmail.com)
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viksit-sharma&theme=tokyonight&row=1&column=7" alt="GitHub Trophies">
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viksit-sharma&theme=tokyonight&hide_border=true&show_icons=true" alt="My GitHub Stats">
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viksit-sharma&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages">
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=viksit-sharma&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
