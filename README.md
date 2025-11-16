@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3399FF&lines=Hi%2C+I'm+Viksit+Sharma;I'm+a+Developer;I+love+learning+new+tech!)
 ## 🛠️ Tech Stack
 
 ### 💻 Languages & Frameworks
@@ -18,6 +19,7 @@
 * [`Instagram`](https://www.instagram.com/viksit_sharma_05/)
 * [`Email`](mailto:viksitsharmapvt@gmail.com)
 
+## ✨ Github Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viksit-sharma&theme=tokyonight&hide_border=true&show_icons=true" alt="My GitHub Stats">
 </p>
