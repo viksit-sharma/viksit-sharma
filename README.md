@@ -18,7 +18,17 @@
 * [`Instagram`](https://www.instagram.com/viksit_sharma_05/)
 * [`Email`](mailto:viksitsharmapvt@gmail.com)
 
-![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=viksit-sharma&theme=tokyonight&row=1&column=7)
-![Snake animation](https://github.com/viksit-sharma/viksit-sharma/blob/output/github-contribution-grid-snake.svg)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3399FF&lines=Hi%2C+I'm+Viksit+Sharma;I'm+a+Full-Stack+Developer;I+love+building+cool+things!)
-  ![Profile Visitor Count](https://komarev.com/ghpvc/?username=viksit-sharma&color=blueviolet&style=flat-square)
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=viksit-sharma&theme=tokyonight&row=1&column=7" alt="GitHub Trophies">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viksit-sharma&theme=tokyonight&hide_border=true&show_icons=true" alt="My GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viksit-sharma&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viksit-sharma&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=viksit-sharma&color=blueviolet&style=flat-square" alt="Profile Visitor Count">
+</p>
